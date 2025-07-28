@@ -144,7 +144,7 @@ namespace SumTwoDateTimesOrSubtractApp
         // 9) Subtract two datetimes
         static TimeSpan SubtractTwoDateTimes(DateTime date1, DateTime date2)
         {
-            return date2 - date1;
+            return date1 - date2;
         }
         // 10) print DateTime
         static void PrintTwoDates(DateTime date1,DateTime date2)
