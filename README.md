@@ -1,6 +1,6 @@
 # SumTwoDateTimesOrSubtractApp
 
-A simple **C# Console Application** that reads two datetimes from the user and if the first is the greatest we will subtract the first from the secondand if the second is the greatest we will apply sum of them and if are equal we will print each of them.
+A simple **C# Console Application** that reads two datetimes from the user and if the first is the greatest we will subtract the first from the second and if the second is the greatest we will apply sum of them and if are equal we will print each of them.
 This project is designed as a basic introduction to input/output operations as well as datetime operations in C#
 
 ## Requirements
