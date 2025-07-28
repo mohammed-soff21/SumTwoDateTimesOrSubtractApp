@@ -1,7 +1,7 @@
 # SumTwoDateTimesOrSubtractApp
 
-A simple **C# Console Application** that reads an string from the user and print if is palindrome or not.
-This project is designed as a basic introduction to input/output operations as well as string operations in C#
+A simple **C# Console Application** that reads two datetimes from the user and if the first is the greatest we will subtract the first from the secondand if the second is the greatest we will apply sum of them and if are equal we will print each of them.
+This project is designed as a basic introduction to input/output operations as well as datetime operations in C#
 
 ## Requirements
 - [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version 6.0 or later)
@@ -11,7 +11,7 @@ This project is designed as a basic introduction to input/output operations as w
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammed-soff21/IsPalindrome.git
+   git clone https://github.com/mohammed-soff21/SumTwoDateTimesOrSubtractApp.git
 2. Open the solution:
    - Launch Visual Studio
    - Open the SumTwoDateTimesOrSubtractApp.sln file
